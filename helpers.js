@@ -1,5 +1,5 @@
 /*
-# Copyright (C) 2021 princerudh.
+# Copyright (C) 2021 Adhiser.
 #
 # WhatsAsena is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *RUDHRA*:  ```" + msg + "```"
+    return "✅ *ADHISER*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *RUDHRA*:  ```" + msg + "```"
+    return "🛑 *ADHISER*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *RUDHRA*:  ```" + msg + "```"
+    return "⏺️ *ADHISER*:  ```" + msg + "```"
 }
 
 
