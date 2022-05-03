@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra",
+  "name": "Adhiser",
   "version": "7.3.6",
-  "description": "Rudhra is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
-  "main": "./Rudhra/bot.js",
+  "description": "Adhiser is the Modified Version of WhatsAsena, Made By @Adhi-ser with Baileys.",
+  "main": "./Adhiser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra.git"
+    "url": "git-https://github.com/ADHISER12/ADHI_SER2.0.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "prince-rudh",
-  "developer": "@TOXIC-DEVIL / @prince-rudh",
+  "author": "Adhiser",
+  "developer": "@TOXIC-DEVIL / @Adhi-ser",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/prince-rudh/Rudhra/issues"
+    "url": "https://github.com/ADHISER12/ADHI_SER2.0"
   },
-  "homepage": "https://github.com/prince-rudh/Rudhra#readme",
+  "homepage": "https://github.com/ADHISER12/ADHI_SER2.0#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
